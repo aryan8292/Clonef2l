@@ -65,9 +65,6 @@ async def start(b, m):
             ]
         )
     )
-
-            
-  )
     else:
         if Var.UPDATES_CHANNEL is not None:
             try:
